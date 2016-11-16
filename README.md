@@ -1,5 +1,5 @@
 # sub2call
-Search an LC subject (class), retrieve its call number
+Search the LC subject classification, retrieve call numbers
 
 This project is an attempt to make Library of Congress call numbers more searchable/discoverable. Attached are files containing an array of values taken from the LC Classification Outline linking the classes/subclasses to their respective call numbers.  
 
