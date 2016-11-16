@@ -1,7 +1,9 @@
 # sub2call
 Search an LC subject (class), retrieve its call number
 
-This project is an attempt to make Library of Congress call numbers more searchable/discoverable. Attached are files containing an array of values taken from the LC Classification Outline linking the classes/subclasses to their respective call numbers. Use the javascript file to access the external array directly, or the HTML file with the basic code as an internally styled page. 
+This project is an attempt to make Library of Congress call numbers more searchable/discoverable. Attached are files containing an array of values taken from the LC Classification Outline linking the classes/subclasses to their respective call numbers.  
+
+The code is based on Jquery UI's autocomplete functionality (https://jqueryui.com/autocomplete/). Use the javascript file as an external array, or the HTML file with the basic code as a minimally internally styled page.   
 
 Entries are taken directly from the LC Classification Outline, which is an incomplete though freely available listing of the classes and call numbers. 
 
