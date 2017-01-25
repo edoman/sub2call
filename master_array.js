@@ -2493,7 +2493,7 @@
 				  { label: "Recreation. Leisure - Outdoor life. Outdoor recreation - Orienteering. Wilderness survival", value: "GV200.4-200.56 " },
 				  { label: "Recreation. Leisure - Outdoor life. Outdoor recreation - Caving. Spelunking", value: "GV200.6-200.66 " },
 				  { label: "Recreation. Leisure - Physical education and training", value: "GV201-555 " },
-				  { label: "Recreation. Leisure - Physical education and training - School and college athletics. Intramuraland interscholastic athletics ", value: "GV346-351.5 " },
+				  { label: "Recreation. Leisure - Physical education and training - School and college athletics. Intramural and interscholastic athletics ", value: "GV346-351.5 " },
 				  { label: "Recreation. Leisure - Physical education and training - Physical education facilities. Sports facilities Including gymnasiums, athletic fields, playgrounds, etc. ", value: "GV401-433 " },
 				  { label: "Recreation. Leisure - Physical education and training - Physical measurements. Physical tests, etc. ", value: "GV435-436.7 " },				 
 				  { label: "Recreation. Leisure - Physical education and training - Nudism. Sunbathing ", value: "GV450-451.4 " },				  
