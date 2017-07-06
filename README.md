@@ -16,4 +16,8 @@ Future improvements may/should address eliminating overly redundant entries and/
 
 Also added is an HTML page for a reverse call number lookup, based on class. Search the general class (B, GV, QC) and retrieve the subject. This is a more general array, but it does demonstrate potential utility. 
 
+An example of the code can be found at the following site ("Browse the Stacks"):
+
+http://libguides.marian.edu/c.php?g=115965&p=3717132
+
 Feel free to add your own improvements to make LC classification more discoverable or programmatically transferrable. Thanks! 
